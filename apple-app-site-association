@@ -1,10 +1,24 @@
 {
-	"webcredentials": {
-		"apps": [
-			"6Q797625BX.io.staging.mercurio.cryptoboy",
-			"6Q797625BX.io.staging.mercurio.cryptoboy.QA",
-			"6Q797625BX.io.staging.mercurio.cryptoboy.Dev"
-		]
-	}
+    "webcredentials": {
+        "apps": [
+            "6Q797625BX.io.staging.mercurio.cryptoboy",
+            "6Q797625BX.io.staging.mercurio.cryptoboy.QA",
+            "6Q797625BX.io.staging.mercurio.cryptoboy.Dev"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "6Q797625BX.io.staging.mercurio.cryptoboy",
+            "6Q797625BX.io.staging.mercurio.cryptoboy.QA",
+            "6Q797625BX.io.staging.mercurio.cryptoboy.Dev"
+        ],
+        "details": [
+            {
+                "appID": "6Q797625BX.io.staging.mercurio.cryptoboy",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
 }
-
